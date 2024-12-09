@@ -4,17 +4,7 @@
 #include <stdbool.h>
 #include <stdint.h>
 
-/*
- * COMPILE GUIDE
- *
- * APP BUILD
- * C:\devkitPro\msys2\MinGW\bin\gcc "C:\Users\diego\OneDrive\Documents\docs\makai.c" -o "C:\Users\diego\OneDrive\Documents\maka.exe" icon.res
- *
- * ICON BUILD
- * C:\devkitPro\msys2\MinGW\bin\windres "C:\Users\diego\OneDrive\Documents\docs\my.rc" -O coff -o "C:\Users\diego\OneDrive\Documents\my.res"
-*/
-
-static const char proj[] = "PROJECT SMC ROM CONVERTER";
+static const char proj[] = "PROJECT NF CCs";
 
 const char name[] = "Diego A.";
 const char noise[] = "MISAKA NETWORK";
